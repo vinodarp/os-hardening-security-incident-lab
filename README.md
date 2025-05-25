@@ -23,8 +23,9 @@ By analyzing DNS and HTTP traffic logs, I discovered that the site redirected us
 
 ---
 
-## 📎 Attached Document
-- `security_incident_bruteforce.pdf`: Full incident report with log analysis and hardening recommendations.
+## 📎 Attached File
+
+[security_incident_bruteforce_vinicius.pdf](./security_incident_bruteforce_vinicius.pdf) - Detailed incident report describing the brute force attack and the OS hardening mitigation applied.
 
 ---
 
